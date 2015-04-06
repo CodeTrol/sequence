@@ -135,6 +135,7 @@ One of the goals of this little module is ablity to insert some additional stuff
 
 more functions will come in a time (depends on how much I'll be free).
 
-By the way, call of ```require('sequence')``` creates a sequence object (in other words: ```require('sequence') != require('sequence')```)
+By the way, call of ```require('sequence')``` creates a sequence object
+(in other words: ```require('sequence') != require('sequence')```)
 
 License - MIT
